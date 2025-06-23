@@ -2,7 +2,7 @@
     Tokenization in NLP
 </h1>
 
-![tokenizers](/home/silver/NLP_Basics/Images/NLP_Header_Tokenization.png)
+![tokenizers](Images/NLP_Header_Tokenization.png)
 
 
 **Note: This is not a comprehensive list of tokenization methods. There may be even more ways to do the tokenization process, I am providing the most generally used methods. Please feel free to provide feedback (or) suggesting other ways.**
